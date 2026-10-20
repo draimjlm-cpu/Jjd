@@ -1,0 +1,6 @@
+{
+  "name": "المتذبذب التوافقي الكمي | Quantum Harmonic Oscillator",
+  "description": "استكشاف تفاعلي متقدم لفيزياء المتذبذب التوافقي الكمي، متسلسلة تايلور، مؤثرات ديراك، وتطبيقات الكيوبتات الكمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
